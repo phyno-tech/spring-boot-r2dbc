@@ -5,7 +5,7 @@
 
     <groupId>ke.co.phyno.learn</groupId>
     <artifactId>phyno-learn-r2dbc</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>war</packaging>
 
     <name>phyno-learn-r2dbc</name>

@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "SERVER_PORT",
+            "type": "java.lang.String",
+            "description": "Description for SERVER_PORT."
+        },
+        {
+            "name": "LOG_FILE_NAME",
+            "type": "java.lang.String",
+            "description": "Description for LOG_FILE_NAME."
+        },
+        {
+            "name": "app.version",
+            "type": "java.lang.String",
+            "description": "Description for app.version."
+        }
+    ]
+}
